@@ -1,3 +1,4 @@
+% This is me adding some random changes
 % function s=dec2bin(d,n)
 % %DEC2BIN Convert decimal integer to its binary representation
 % %   DEC2BIN(D) returns the binary representation of D as a character vector.

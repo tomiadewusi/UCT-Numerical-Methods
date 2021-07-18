@@ -1,3 +1,4 @@
+% This is me adding some random changes
 % Version 2
 % c0 = [flip(dec2base(num,2) - dec2base(0,2)) 0 ]; 
 % t = find(c0 == 0); 
